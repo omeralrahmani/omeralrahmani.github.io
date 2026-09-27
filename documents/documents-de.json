@@ -1,0 +1,82 @@
+[
+  {
+    "id": "secondary-grades",
+    "title": "Schulabschluss — Noten",
+    "issuer": "Ottilie-Schoenewald-Weiterbildungskolleg · Bochum",
+    "date": "16 Juli 2026",
+    "category": "ZEUGNIS · SEITE 2 VON 3",
+    "image": "documents/secondary-school-grades.jpg",
+    "download": "documents/secondary-school-grades.jpg",
+    "downloadName": "Omer-Secondary-School-Grades.jpg"
+  },
+  {
+    "id": "secondary-award",
+    "title": "Schulabschluss — Abschlusszeugnis",
+    "issuer": "Mittlerer Schulabschluss · Fachoberschulreife",
+    "date": "16 Juli 2026",
+    "category": "ZEUGNIS · SEITE 3 VON 3",
+    "image": "documents/secondary-school-award.jpg",
+    "download": "documents/secondary-school-award.jpg",
+    "downloadName": "Omer-Secondary-School-Qualification.jpg"
+  },
+  {
+    "title": "Empfehlung der Schule — Seite 1",
+    "issuer": "Ottilie-Schoenewald-Weiterbildungskolleg",
+    "date": "17 November 2024",
+    "category": "ORIGINAL-PDF-SEITE",
+    "image": "documents/original-page-1.jpg",
+    "page": 1,
+    "width": 1094,
+    "height": 1569
+  },
+  {
+    "title": "Empfehlung der Schule — Seite 2",
+    "issuer": "Ottilie-Schoenewald-Weiterbildungskolleg",
+    "date": "17 November 2024",
+    "category": "ORIGINAL-PDF-SEITE",
+    "image": "documents/original-page-2.jpg",
+    "page": 2,
+    "width": 1196,
+    "height": 1611
+  },
+  {
+    "title": "Empfehlungsschreiben einer Lehrkraft",
+    "issuer": "Ottilie-Schoenewald-Weiterbildungskolleg",
+    "date": "15 November 2024",
+    "category": "ORIGINAL-PDF-SEITE",
+    "image": "documents/original-page-3.jpg",
+    "page": 3,
+    "width": 1209,
+    "height": 1749
+  },
+  {
+    "title": "Schulbescheinigung",
+    "issuer": "Ottilie-Schoenewald-Weiterbildungskolleg",
+    "date": "10 Juni 2024",
+    "category": "ORIGINAL-PDF-SEITE",
+    "image": "documents/original-page-4.jpg",
+    "page": 4,
+    "width": 1558,
+    "height": 2213
+  },
+  {
+    "title": "Malteser-Arbeitszeugnis",
+    "issuer": "Malteser Betreuung Johannes · Hamm",
+    "date": "9 Dezember 2022",
+    "category": "ORIGINAL-PDF-SEITE",
+    "image": "documents/original-page-5.jpg",
+    "page": 5,
+    "width": 1740,
+    "height": 2418
+  },
+  {
+    "title": "Deutsch B1-Zertifikat",
+    "issuer": "telc · VHS Bochum",
+    "date": "26 Juli 2024",
+    "category": "ORIGINAL-PDF-SEITE",
+    "image": "documents/original-page-6.jpg",
+    "page": 6,
+    "width": 1364,
+    "height": 1954
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": "secondary-grades",
+    "title": "Secondary school qualification — grades",
+    "issuer": "Ottilie-Schoenewald-Weiterbildungskolleg · Bochum",
+    "date": "16 July 2026",
+    "category": "CERTIFICATE · PAGE 2 OF 3",
+    "image": "documents/secondary-school-grades.jpg",
+    "download": "documents/secondary-school-grades.jpg",
+    "downloadName": "Omer-Secondary-School-Grades.jpg"
+  },
+  {
+    "id": "secondary-award",
+    "title": "Secondary school qualification — award",
+    "issuer": "Mittlerer Schulabschluss · Fachoberschulreife",
+    "date": "16 July 2026",
+    "category": "CERTIFICATE · PAGE 3 OF 3",
+    "image": "documents/secondary-school-award.jpg",
+    "download": "documents/secondary-school-award.jpg",
+    "downloadName": "Omer-Secondary-School-Qualification.jpg"
+  },
+  {
+    "title": "School recommendation — page 1",
+    "issuer": "Ottilie-Schoenewald-Weiterbildungskolleg",
+    "date": "17 November 2024",
+    "category": "ORIGINAL PDF PAGE",
+    "image": "documents/original-page-1.jpg",
+    "page": 1,
+    "width": 1094,
+    "height": 1569
+  },
+  {
+    "title": "School recommendation — page 2",
+    "issuer": "Ottilie-Schoenewald-Weiterbildungskolleg",
+    "date": "17 November 2024",
+    "category": "ORIGINAL PDF PAGE",
+    "image": "documents/original-page-2.jpg",
+    "page": 2,
+    "width": 1196,
+    "height": 1611
+  },
+  {
+    "title": "Teacher letter",
+    "issuer": "Ottilie-Schoenewald-Weiterbildungskolleg",
+    "date": "15 November 2024",
+    "category": "ORIGINAL PDF PAGE",
+    "image": "documents/original-page-3.jpg",
+    "page": 3,
+    "width": 1209,
+    "height": 1749
+  },
+  {
+    "title": "School attendance letter",
+    "issuer": "Ottilie-Schoenewald-Weiterbildungskolleg",
+    "date": "10 June 2024",
+    "category": "ORIGINAL PDF PAGE",
+    "image": "documents/original-page-4.jpg",
+    "page": 4,
+    "width": 1558,
+    "height": 2213
+  },
+  {
+    "title": "Malteser work reference",
+    "issuer": "Malteser Betreuung Johannes · Hamm",
+    "date": "9 December 2022",
+    "category": "ORIGINAL PDF PAGE",
+    "image": "documents/original-page-5.jpg",
+    "page": 5,
+    "width": 1740,
+    "height": 2418
+  },
+  {
+    "title": "German B1 certificate",
+    "issuer": "telc · VHS Bochum",
+    "date": "26 July 2024",
+    "category": "ORIGINAL PDF PAGE",
+    "image": "documents/original-page-6.jpg",
+    "page": 6,
+    "width": 1364,
+    "height": 1954
+  }
+]
